@@ -1,4 +1,4 @@
-# Hi 👋, I'm LEE YEONWOO
+# Hi 👋
 
 ### Student and developer
 
