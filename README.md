@@ -1,7 +1,5 @@
 # Hi 👋
 
-### Student and developer
-
 <p align="left">
   <img src="https://komarev.com/ghpvc/?username=lsthc&label=Profile%20views&color=0e75b6&style=flat" alt="lsthc" />
 </p>
@@ -10,8 +8,8 @@
 
 ## 🚀 Current Focus
 
-* **🔭 I'm currently working on:** Building a new database structure (**SQL4**).
-* **🌱 I'm currently learning:** **React Stylings** (e.g., Styled Components, Emotion, Tailwind CSS).
+* **🔭 I'm currently working on** Building a new database structure named **SQL4**.
+* **🌱 I'm currently learning** **React Stylings**.
 
 ---
 
