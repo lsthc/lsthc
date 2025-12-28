@@ -13,7 +13,7 @@
 
 ---
 
-### 🌐 Connect with me:
+### 🌐 Connect with me
 <p align="left">
 <a href="https://github.com/lsthc" target="_blank" rel="noreferrer"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/github.svg" alt="lsthc" height="30" width="40" /></a>
 <a href="https://instagram.com/o8oum" target="_blank" rel="noreferrer"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" alt="o8oum" height="30" width="40" /></a>
@@ -23,7 +23,7 @@
 
 ### 🛠️ Languages and Tools
 
-<h4 align="left">Frontend & Design:</h4>
+<h4 align="left">Frontend & Design</h4>
 <p align="left">
     <a href="https://reactjs.org/" target="_blank" rel="noreferrer"> <img src="https://skillicons.dev/icons?i=react" alt="react" width="40" height="40"/> </a>
     <a href="https://nextjs.org/" target="_blank" rel="noreferrer"> <img src="https://skillicons.dev/icons?i=nextjs" alt="nextjs" width="40" height="40"/> </a>
@@ -36,7 +36,7 @@
     <a href="https://www.figma.com/" target="_blank" rel="noreferrer"> <img src="https://skillicons.dev/icons?i=figma" alt="figma" width="40" height="40"/> </a>
 </p>
 
-<h4 align="left">Backend & Database:</h4>
+<h4 align="left">Backend & Database</h4>
 <p align="left">
     <a href="https://nodejs.org" target="_blank" rel="noreferrer"> <img src="https://skillicons.dev/icons?i=nodejs" alt="nodejs" width="40" height="40"/> </a>
     <a href="https://expressjs.com" target="_blank" rel="noreferrer"> <img src="https://skillicons.dev/icons?i=express" alt="express" width="40" height="40"/> </a>
@@ -48,7 +48,7 @@
     <a href="https://firebase.google.com/" target="_blank" rel="noreferrer"> <img src="https://skillicons.dev/icons?i=firebase" alt="firebase" width="40" height="40"/> </a>
 </p>
 
-<h4 align="left">Data Science & AI/ML:</h4>
+<h4 align="left">Data Science & AI/ML</h4>
 <p align="left">
     <a href="https://www.python.org" target="_blank" rel="noreferrer"> <img src="https://skillicons.dev/icons?i=py" alt="python" width="40" height="40"/> </a>
     <a href="https://numpy.org/" target="_blank" rel="noreferrer"> <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/numpy/numpy-original.svg" alt="numpy" width="40" height="40"/> </a>
