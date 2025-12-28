@@ -77,19 +77,3 @@
 </p>
 
 <br/>
-
-## 📈 GitHub Stats
-
-<p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=lsthc&show_icons=true&theme=buefy" alt="lsthc's GitHub Stats" />
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=lsthc&theme=buefy" alt="lsthc's GitHub Streak" />
-</p>
-
-<br/>
-
-## 🏆 Top Languages
-
-<p align="center">
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=lsthc&layout=compact&langs_count=10&theme=buefy" alt="lsthc's Top Languages" />
-</p>
-
