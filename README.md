@@ -21,9 +21,7 @@
 
 ---
 
-### 🛠️ Languages and Tools:
-
-저는 다양한 분야에서 아래와 같은 기술들을 활용하고 있습니다.
+### 🛠️ Languages and Tools
 
 <h4 align="left">Frontend & Design:</h4>
 <p align="left">
