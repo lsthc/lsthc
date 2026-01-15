@@ -6,10 +6,7 @@
 
 ---
 
-## 🚀 Current Focus
 
-* **🔭 I'm currently working on** Building a new database structure named **SQL4**.
-* **🌱 I'm currently learning** **React Stylings**.
 
 ---
 
